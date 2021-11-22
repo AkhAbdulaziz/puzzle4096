@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "752400421321",
+    "project_id": "my4096-game",
+    "storage_bucket": "my4096-game.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:752400421321:android:4960e9e101db1e4cd71818",
+        "android_client_info": {
+          "package_name": "uz.gita.puzzle4096"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "752400421321-kg38t1nlhm6dfijdoku8u8k84uvnc9fr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBpQSa9_l1iK3g07vBAabUyZ_lZBdNFIx4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "752400421321-kg38t1nlhm6dfijdoku8u8k84uvnc9fr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
